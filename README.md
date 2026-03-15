@@ -53,3 +53,8 @@
 
 ![NOTIF DELETE](ss/notifikasi-delete-tugas3.png)
 
+---
+
+### Database 
+![DATABASE](ss/database-tugas3.png)
+
